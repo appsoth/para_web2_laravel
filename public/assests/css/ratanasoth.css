@@ -1,0 +1,65 @@
+
+.contact-us .footer, .new-activity .footer, .promotion .footer, .cinema .footer, .movie-info .footer, .homepage .footer {
+    background-color: black;
+    padding: 40px 80px;
+    color: white;
+  }
+  .contact-us .footer .footer-contents, .new-activity .footer .footer-contents, .promotion .footer .footer-contents, .cinema .footer .footer-contents, .movie-info .footer .footer-contents, .homepage .footer .footer-contents {
+    display: flex;
+    justify-content: space-around;
+  }
+  .contact-us .footer .footer-contents .menu-footer, .new-activity .footer .footer-contents .menu-footer, .promotion .footer .footer-contents .menu-footer, .cinema .footer .footer-contents .menu-footer, .movie-info .footer .footer-contents .menu-footer, .homepage .footer .footer-contents .menu-footer {
+    display: flex;
+    gap: 40px;
+  }
+  .contact-us .footer .footer-contents .menu-footer .menu-col p, .new-activity .footer .footer-contents .menu-footer .menu-col p, .promotion .footer .footer-contents .menu-footer .menu-col p, .cinema .footer .footer-contents .menu-footer .menu-col p, .movie-info .footer .footer-contents .menu-footer .menu-col p, .homepage .footer .footer-contents .menu-footer .menu-col p {
+    font-weight: 600;
+    border-bottom: 2px solid #FF3D00;
+  }
+  .contact-us .footer .footer-contents .menu-footer .menu-col ul, .new-activity .footer .footer-contents .menu-footer .menu-col ul, .promotion .footer .footer-contents .menu-footer .menu-col ul, .cinema .footer .footer-contents .menu-footer .menu-col ul, .movie-info .footer .footer-contents .menu-footer .menu-col ul, .homepage .footer .footer-contents .menu-footer .menu-col ul {
+    position: relative;
+    padding-left: 0;
+    font-family: "Abel", sans-serif;
+  }
+  .contact-us .footer .footer-contents .menu-footer .menu-col ul li, .new-activity .footer .footer-contents .menu-footer .menu-col ul li, .promotion .footer .footer-contents .menu-footer .menu-col ul li, .cinema .footer .footer-contents .menu-footer .menu-col ul li, .movie-info .footer .footer-contents .menu-footer .menu-col ul li, .homepage .footer .footer-contents .menu-footer .menu-col ul li {
+    list-style-type: none;
+  }
+  .contact-us .footer .footer-contents .menu-footer .menu-col ul li a, .new-activity .footer .footer-contents .menu-footer .menu-col ul li a, .promotion .footer .footer-contents .menu-footer .menu-col ul li a, .cinema .footer .footer-contents .menu-footer .menu-col ul li a, .movie-info .footer .footer-contents .menu-footer .menu-col ul li a, .homepage .footer .footer-contents .menu-footer .menu-col ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  .contact-us .footer .footer-contents .menu-footer .menu-col ul li a:hover, .new-activity .footer .footer-contents .menu-footer .menu-col ul li a:hover, .promotion .footer .footer-contents .menu-footer .menu-col ul li a:hover, .cinema .footer .footer-contents .menu-footer .menu-col ul li a:hover, .movie-info .footer .footer-contents .menu-footer .menu-col ul li a:hover, .homepage .footer .footer-contents .menu-footer .menu-col ul li a:hover {
+    text-decoration: underline;
+  }
+  .contact-us .footer .footer-contents .contact h5, .new-activity .footer .footer-contents .contact h5, .promotion .footer .footer-contents .contact h5, .cinema .footer .footer-contents .contact h5, .movie-info .footer .footer-contents .contact h5, .homepage .footer .footer-contents .contact h5 {
+    font-weight: 600;
+  }
+  .contact-us .footer .footer-contents .contact p, .new-activity .footer .footer-contents .contact p, .promotion .footer .footer-contents .contact p, .cinema .footer .footer-contents .contact p, .movie-info .footer .footer-contents .contact p, .homepage .footer .footer-contents .contact p {
+    font-family: "Abel", sans-serif;
+  }
+  .contact-us .footer .footer-contents .contact .social-media, .new-activity .footer .footer-contents .contact .social-media, .promotion .footer .footer-contents .contact .social-media, .cinema .footer .footer-contents .contact .social-media, .movie-info .footer .footer-contents .contact .social-media, .homepage .footer .footer-contents .contact .social-media {
+    gap: 10px;
+  }
+  .contact-us .footer .footer-contents .contact .social-media a, .new-activity .footer .footer-contents .contact .social-media a, .promotion .footer .footer-contents .contact .social-media a, .cinema .footer .footer-contents .contact .social-media a, .movie-info .footer .footer-contents .contact .social-media a, .homepage .footer .footer-contents .contact .social-media a {
+    text-decoration: none;
+  }
+  .contact-us .footer .footer-contents .contact .social-media a img, .new-activity .footer .footer-contents .contact .social-media a img, .promotion .footer .footer-contents .contact .social-media a img, .cinema .footer .footer-contents .contact .social-media a img, .movie-info .footer .footer-contents .contact .social-media a img, .homepage .footer .footer-contents .contact .social-media a img {
+    width: 30px;
+  }
+  .contact-us .footer .bottom-footer, .new-activity .footer .bottom-footer, .promotion .footer .bottom-footer, .cinema .footer .bottom-footer, .movie-info .footer .bottom-footer, .homepage .footer .bottom-footer {
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+  }
+  .contact-us .footer .bottom-footer .app-download, .new-activity .footer .bottom-footer .app-download, .promotion .footer .bottom-footer .app-download, .cinema .footer .bottom-footer .app-download, .movie-info .footer .bottom-footer .app-download, .homepage .footer .bottom-footer .app-download {
+    margin-top: 30px;
+    gap: 10px;
+  }
+  .contact-us .footer .bottom-footer .app-download .store img, .new-activity .footer .bottom-footer .app-download .store img, .promotion .footer .bottom-footer .app-download .store img, .cinema .footer .bottom-footer .app-download .store img, .movie-info .footer .bottom-footer .app-download .store img, .homepage .footer .bottom-footer .app-download .store img {
+    width: 120px;
+  }
+  .contact-us .footer .bottom-footer .copyright p, .new-activity .footer .bottom-footer .copyright p, .promotion .footer .bottom-footer .copyright p, .cinema .footer .bottom-footer .copyright p, .movie-info .footer .bottom-footer .copyright p, .homepage .footer .bottom-footer .copyright p {
+    text-align: center;
+    font-family: "Anek Devanagari", sans-serif;
+    font-size: 12px;
+  }
