@@ -71,7 +71,7 @@ class LoginController extends Controller
 
         } catch (\Illuminate\Database\QueryException $e) {
             //report($e);
-            session()->flash('message', 'Your registration is getting problem');
+            session()->flash('message', 'Your registration is getting problem'.report($e));
 
         }
 
