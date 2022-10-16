@@ -13,7 +13,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="menu-bar container-fluid">
                 <a class="logo-link navbar-brand" href="#">
-                    <img src="{{ asset('/assests/')}}//images/majorcineplex.png" alt="Major Cineplex" />
+                    <img src="{{asset('/assests/')}}//images/majorcineplex.png" alt="Major Cineplex" />
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -104,13 +104,13 @@
         <div class="slider-page carousel slide carousel-fade" id="carouselExampleFade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="{{ asset('/assests/')}}//images/thebatman.jpg" class="d-block w-100" alt="...">
+                    <img src="{{asset('/assests/')}}//images/thebatman.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="{{ asset('/assests/')}}//images/Jailangkun 1.jpg" class="d-block w-100" alt="...">
+                    <img src="{{asset('/assests/')}}//images/Jailangkun 1.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="{{ asset('/assests/')}}//images/thelostcity.jpg" class="d-block w-100" alt="...">
+                    <img src="{{asset('/assests/')}}//images/thelostcity.jpg" class="d-block w-100" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
