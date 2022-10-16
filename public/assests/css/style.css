@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap");
 .movie-info .movieDescription .categories .movieDetails, .homepage .main-contents .movie-contents .row-movie .col .movie-item .thumb-info, .homepage .main-contents .filter-bar, .homepage .navbar .menu-bar .menu-contents .search-bar .search-btn, .homepage .navbar .menu-bar .menu-contents .navbar-nav .nav-item .nav-link, .contact-us .footer .bottom-footer .app-download, .new-activity .footer .bottom-footer .app-download, .promotion .footer .bottom-footer .app-download, .cinema .footer .bottom-footer .app-download, .movie-info .footer .bottom-footer .app-download, .homepage .footer .bottom-footer .app-download, .contact-us .footer .bottom-footer, .new-activity .footer .bottom-footer, .promotion .footer .bottom-footer, .cinema .footer .bottom-footer, .movie-info .footer .bottom-footer, .homepage .footer .bottom-footer, .contact-us .footer .footer-contents .contact .social-media, .new-activity .footer .footer-contents .contact .social-media, .promotion .footer .footer-contents .contact .social-media, .cinema .footer .footer-contents .contact .social-media, .movie-info .footer .footer-contents .contact .social-media, .homepage .footer .footer-contents .contact .social-media {
   display: flex;
   align-items: center;
